@@ -4,5 +4,5 @@
 - 📫 How to reach me: [496912046@qq.com](mailto:496912046@qq.com)
 
 ## 🌟 Skills
-- Programming: Swift, Python,Object-C,Html,CSS,JS,Vue
+- Programming: Swift,,Objective-C, Python,Html,CSS,JS,Vue
 - Tools: Xcode, Fastlane, Jenkins，VSCode
